@@ -1,5 +1,4 @@
-
-.TH _PRINTF 3 "October 15 2022 17:40" "0.1" "ALX-HOLBERTON 0x11. C - _printf"
+.TH _PRINTF 3 "October 15 2022 16:06" "0.1" "ALX-HOLBERTON 0x11. C - _printf"
 
 .SH NAME
 .B _printf\fR \- formatted output conversion
@@ -285,4 +284,4 @@ man page printf(3).
 .SH AUTHOR
 
 ----
-YUSUF BABATUNDE and FELIX DAWODU
+YUSUF BABATUNDE AND FELIX DAWODU
